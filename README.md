@@ -1,4 +1,5 @@
-Hello reader!
+Hello reader this is my first repository!
+
 Author - Rishab Rebala
 
 This repo contains my first ever portfolio showcased through a webdesgin using some html and intermediate CSS.
